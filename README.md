@@ -2,11 +2,11 @@
 
 ## Relevant Files
 
-### CSVs- * [EmployeeSQL](EmployeeSQL)
+### CSVs-  [EmployeeSQL](EmployeeSQL)
 
-### Bonus- * [Bonus Analysis](bonus.ipynb)
+### Bonus-  [Bonus Analysis](bonus.ipynb)
 
-### Schema- * [Database Schema](schema.sql)
+### Schema-  [Database Schema](schema.sql)
 
 ### Queries- [Queries for postgres](queries.sql)
 
